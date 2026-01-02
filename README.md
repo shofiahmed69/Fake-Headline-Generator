@@ -12,15 +12,14 @@ This project randomly generates humorous fake news headlines with smooth animati
 - 🎨 Modern UI with gradient design  
 - ⚡ Smooth animations (fade & slide effects)  
 - 📱 Fully responsive layout  
-- 🧠 Simple JavaScript logic (no libraries required)
+
 
 ---
 
 ## 🛠️ Technologies Used
 
 - HTML5  
-- CSS3  
-- JavaScript (Vanilla)
+
 
 ---
 
